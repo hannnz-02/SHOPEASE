@@ -206,6 +206,10 @@ class Mimes
             'image/jpeg',
             'image/pjpeg',
         ],
+        'jfif' => [
+            'image/jpeg',
+            'image/pjpeg',
+        ],
         'jp2' => [
             'image/jp2',
             'video/mj2',
